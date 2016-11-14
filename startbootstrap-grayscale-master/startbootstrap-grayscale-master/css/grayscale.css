@@ -259,16 +259,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #42DCA3;
-  color: #42DCA3;
+  border: 1px solid #c92020;
+  color: #c92020;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #42DCA3;
+  border: 1px solid #c92020;
   outline: none;
   color: black;
-  background-color: #42DCA3;
+  background-color: #c92020;
 }
 ul.banner-social-buttons {
   margin-top: 0;
@@ -315,5 +315,12 @@ body {
 }
 
 .fade {
-  opacity: 1;
+  opacity: 0;
+}
+
+.test {
+	border: 2px solid red;
+	border-radius: 5px;
+	font-family: url('../fonts/forza-light.otf');
+	src: url('../fonts/forza-light.otf');
 }
