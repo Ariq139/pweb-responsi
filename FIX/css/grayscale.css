@@ -223,7 +223,7 @@ a:focus {
 }
 .download-section {
   width: 100%;
-  padding: 50px 0;
+  padding: 25px 0;
   color: white;
   background: url(../img/Screenshot.png) no-repeat center center scroll;
   background-color: black;
@@ -242,7 +242,7 @@ a:focus {
     padding-top: 250px;
   }
   .download-section {
-    padding: 100px 0;
+    padding: 50px 0;
   }
   #map {
     height: 400px;
