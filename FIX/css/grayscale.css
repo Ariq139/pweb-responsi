@@ -334,3 +334,7 @@ body {
 	text-shadow: 3px 3px 10px 6px #4d4d4d;
 	font-size: 20px;
 }
+
+.formulir {
+	opacity:0;
+}
